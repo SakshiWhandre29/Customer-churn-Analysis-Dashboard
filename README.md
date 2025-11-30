@@ -22,7 +22,7 @@
 
 ## 📸 Dashboard Preview
 
-![Customer Churn Dashboard](Screenshot)
+Screenshot.png
 ---
 
 ## 🛠 Tools Used
